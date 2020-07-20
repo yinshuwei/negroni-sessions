@@ -1,4 +1,4 @@
-# negroni-sessions [![GoDoc](https://godoc.org/github.com/GoIncremental/negroni-sessions?status.svg)](http://godoc.org/github.com/GoIncremental/negroni-sessions) [![wercker status](https://app.wercker.com/status/988ab53fd546cb198ee5c4c530e0126b/s "wercker status")](https://app.wercker.com/project/bykey/988ab53fd546cb198ee5c4c530e0126b)
+# negroni-sessions [![GoDoc](https://godoc.org/github.com/yinshuwei/negroni-sessions?status.svg)](http://godoc.org/github.com/yinshuwei/negroni-sessions) [![wercker status](https://app.wercker.com/status/988ab53fd546cb198ee5c4c530e0126b/s "wercker status")](https://app.wercker.com/project/bykey/988ab53fd546cb198ee5c4c530e0126b)
 Negroni middleware/handler for easy session management.
 
 ## Usage
@@ -8,8 +8,8 @@ package main
 
 import (
   "github.com/urfave/negroni"
-  "github.com/goincremental/negroni-sessions"
-  "github.com/goincremental/negroni-sessions/cookiestore"
+  "github.com/yinshuwei/negroni-sessions"
+  "github.com/yinshuwei/negroni-sessions/cookiestore"
   "net/http"
 )
 
@@ -32,6 +32,6 @@ func main() {
 ~~~
 
 ## Contributors
-* [David Bochenski](http://github.com/goincremental)
+* [David Bochenski](http://github.com/yinshuwei)
 * [Jeremy Saenz](http://github.com/codegangsta)
 * [Deniz Eren](https://github.com/denizeren)

@@ -5,7 +5,7 @@
 //
 //	import (
 //		"github.com/urfave/negroni"
-//		"github.com/goincremental/negroni-sessions"
+//		"github.com/yinshuwei/negroni-sessions"
 //		"net/http"
 //	)
 //

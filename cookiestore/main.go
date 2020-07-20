@@ -1,8 +1,8 @@
 package cookiestore
 
 import (
-	nSessions "github.com/goincremental/negroni-sessions"
 	gSessions "github.com/gorilla/sessions"
+	nSessions "github.com/yinshuwei/negroni-sessions"
 )
 
 // New returns a new CookieStore.

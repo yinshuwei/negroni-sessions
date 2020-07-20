@@ -8,7 +8,6 @@ require (
 	github.com/boj/redistore v0.0.0-20180917114910-cd5dcc76aeff
 	github.com/crowdmob/goamz v0.0.0-20150128194925-3a06871fe9fc // indirect
 	github.com/denizeren/dynamostore v0.0.0-20150130063214-69258d14eb58
-	github.com/goincremental/negroni-sessions v0.0.0-20171223143234-40b49004abee
 	github.com/gorilla/context v1.1.1
 	github.com/gorilla/securecookie v1.1.1
 	github.com/gorilla/sessions v1.2.0
